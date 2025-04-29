@@ -3,16 +3,58 @@
 ✨ _Linux Enthusiast • Tiling WM Fanatic • Automation Addict_  
 🎯 Living in the terminal, tweaking systems, and scripting life one dotfile at a time.
 
+```pgsql
+┌────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                    │
+│ ▄▄           ██                         ▄▄▄  ▄▄▄                                                   │
+│ ██           ▀▀                          ██▄▄██                         ██                         │
+│ ██         ████     ██▄████▄  ██    ██    ████     ▄█████▄  ▄▄█████▄  ███████    ██▄████   ▄█████▄ │
+│ ██           ██     ██▀   ██  ██    ██     ██      ▀ ▄▄▄██  ██▄▄▄▄ ▀    ██       ██▀       ▀ ▄▄▄██ │
+│ ██           ██     ██    ██  ██    ██    ████    ▄██▀▀▀██   ▀▀▀▀██▄    ██       ██       ▄██▀▀▀██ │
+│ ██▄▄▄▄▄▄  ▄▄▄██▄▄▄  ██    ██  ██▄▄▄███   ██  ██   ██▄▄▄███  █▄▄▄▄▄██    ██▄▄▄    ██       ██▄▄▄███ │
+│ ▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀  ▀▀    ▀▀   ▀▀▀▀ ▀▀  ▀▀▀  ▀▀▀   ▀▀▀▀ ▀▀   ▀▀▀▀▀▀      ▀▀▀▀    ▀▀        ▀▀▀▀ ▀▀ │
+│                                                                                                    │
+└────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+					┌───────────────────────────────────────────────────────────────┐
+					│                    🔧 USER PROFILE                            │
+					├───────────────────────────────────────────────────────────────┤
+					│ 👤 Name      : Pankaj                                         │
+					│ 🛠️ Role      : Linux Customizer & Automation Geek             │
+					├───────────────────────────────────────────────────────────────┤
+					│ 🎯 Focus Areas:                                               │
+					│     • Linux                                                   │
+					│     • Tiling Window Managers                                  │
+					│     • Arch Linux                                              │
+					│     • Python Automation                                       │
+					│     • Custom Desktop Workflows                                │
+					├───────────────────────────────────────────────────────────────┤
+					│ 🧭 Motto:                                                     │
+					│     "Automate everything.                                     │
+					│      Minimal everything.                                      │
+					│      Linux all the way."                                      │
+					└───────────────────────────────────────────────────────────────┘
+```
+
 ---
 
 ## 🛠️ Tech I Love Working With
 
-- 🐧 Arch Linux (btw)
-- 🐍 Python
-- 📘 TypeScript
-- 🖥️ Bash scripting
-- 🧱 Qtile (Tiling WM)
-- ⚙️ Automation tools
+| Category             | Tools & Technologies                                       |
+| -------------------- | ---------------------------------------------------------- |
+| **💻 OS/Distros**    | Arch Linux (btw)                                           |
+| **🪟 WM/DE**         | Qtile, i3, KDE                                             |
+| **📦 Containers**    | Docker, Podman, Distrobox                                  |
+| **☸️ Orchestration** | Vagrant, K3s, Kubernetes, Swarm                            |
+| **🔌 Automation**    | Ansible, Bash, Python                                      |
+| **📡 Monitoring**    | Zeek, Prometheus, Grafana, Glance, Kibana                  |
+| **💻 Term Tools**    | Kitty, Alacritty, Konsole                                  |
+| **🔐 Security**      | IPtables, PiHole, Metasploit, Snort                        |
+| **🔧 Dev Tools**     | VSCode, Git, Tabby, Ollama, S-Diff                         |
+| **🧪 Hobby**         | Building custom OS (LXA), terminal dashboards, DIY Homelab |
+| **🧰 Hardware**      | Raspberry Pi: Version 5, 8GB                               |
+|                      | Work Station: Core i9 14900K, RTX 4090 OC, DDR5 192GB      |
+|                      | Work Station (backup): Core i7700K, GTX 1050 Ti, DDR4 64GB |
 
 ---
 
@@ -21,7 +63,7 @@
 - 🔧 Craft and tweak minimalist, blazing-fast Linux setups
 - ⚙️ Build Python/Bash tools to automate the boring stuff
 - 💡 Actively contribute to and explore the **FOSS** ecosystem
-- 🧪 Currently playing with the **Arch Kernel** and my own distro, **LXA (Custom OS)**
+- 🧪 Currently building my own distro: **LXA (LinuxAstra)** — tailored for tiling WM lovers and automation nerds
 
 ---
 
@@ -41,11 +83,11 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pankajackson)
 - 📝 [Linux Astra Articles](https://articles.linuxastra.in/)
-- 📝 [Medium](https://medium.com/@pankajackson)
-- 💬 Open an [issue](https://github.com/pankajackson) or start a [discussion](https://github.com/pankajackson/discussions) — I’d love to hear from you!
+- ✍️ [Medium](https://medium.com/@pankajackson)
+- 💬 Start a [Discussion](https://github.com/pankajackson/discussions)
 
 ---
 
 <p align="center">
-  <i>Made with ❤️ using Linux, Neovim, and Qtile — powered by caffeine and shell scripts.</i>
+<i>❤️ Made with love by Pankaj | 🖥️ Crafted on Arch Linux | 🔧 Powered by LinuxAstra | 🚀 Driven by Passion for Linux</i>
 </p>
